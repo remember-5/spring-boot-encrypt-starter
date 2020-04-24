@@ -10,7 +10,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.remember</groupId>
+	<groupId>top.remember5</groupId>
 	<artifactId>spring-boot-encrypt-starter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-encrypt-starter</name>
@@ -68,6 +68,27 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
+
+
+	<licenses>
+		<license>
+			<name>The Apache Software License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+	<scm>
+		<tag>master</tag>
+		<url>git@github.com:remember-5/spring-boot-encrypt-starter.git</url>
+		<connection>scm:git:git@github.com:remember-5/spring-boot-encrypt-starter.git</connection>
+		<developerConnection>scm:git:git@github.com:remember-5/spring-boot-encrypt-starter.git</developerConnection>
+	</scm>
+	<developers>
+		<developer>
+			<name>wangjiahao</name>
+			<email>1332661444@qq.com</email>
+		</developer>
+	</developers>
 
 
 	<build>
