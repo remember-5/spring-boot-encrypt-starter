@@ -20,7 +20,7 @@
 
 
 解密：
-```
+```java
 @AESEncryptBody
 @DESEncryptBody
 @MD5EncryptBody
@@ -29,7 +29,7 @@
 ```
 
 指定方式，使用一下注解
-```
+```java
 @DecryptBody
 @EncryptBody
 ```

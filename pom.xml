@@ -12,7 +12,7 @@
 
 	<groupId>top.remember5</groupId>
 	<artifactId>spring-boot-encrypt-starter</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0-RELEASE</version>
 	<name>spring-boot-encrypt-starter</name>
 	<description>spring-boot接口加解密</description>
 
